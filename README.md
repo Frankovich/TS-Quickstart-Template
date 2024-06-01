@@ -1,8 +1,8 @@
-# Using TS-Quickstart-Template
+# Using TS-Quickstart-Template for Node.js projects
 
-This guide will help you get started quickly with TS-Quickstart-Template, and help you install all the dependencies.
+This repository is for quickly starting up a typescript Node.js project. If you have any modifications please contribute!
 
-## #1 Cloning and setting up your own Github repository
+## Part 1: Cloning and setting up your own Github repository
 
 (if you don't want to have a remote repository or a repository at all, skip to step #2)
 
